@@ -1,0 +1,9 @@
+.vs/
+App.config
+Properties/
+ShashkinaGit.csproj
+ShashkinaGit.sln
+obj/
+.git/
+bin/
+

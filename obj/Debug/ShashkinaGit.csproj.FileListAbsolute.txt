@@ -1,0 +1,7 @@
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\bin\Debug\ShashkinaGit.exe.config
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\bin\Debug\ShashkinaGit.exe
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\bin\Debug\ShashkinaGit.pdb
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\obj\Debug\ShashkinaGit.csprojAssemblyReference.cache
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\obj\Debug\ShashkinaGit.csproj.CoreCompileInputs.cache
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\obj\Debug\ShashkinaGit.exe
+C:\Users\Student.MYKMK\source\repos\ShashkinaGit\obj\Debug\ShashkinaGit.pdb
