@@ -14,7 +14,9 @@ namespace ShashkinaGit
             int a = 17;
 
             Console.WriteLine(a);
-
+            Console.WriteLine("Введите цифру");
+            int b = 300;
+            Console.WriteLine(b);
         }
     }
 }
